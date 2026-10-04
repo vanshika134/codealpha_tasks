@@ -1,0 +1,9 @@
+STOCK PORTFOLIO
+====================
+
+Stock	Quantity	Price	Value
+--------------------------------
+AAPL	5	$180	$900
+TSLA	5	$250	$1250
+
+Total Investment: $2150
